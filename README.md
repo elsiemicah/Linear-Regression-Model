@@ -4,9 +4,10 @@
 This project uses linear regression to predict yearly spending of e-commerce customers based on various engagement metrics. The project includes data cleaning, exploratory data analysis (EDA), model building, and evaluation.
 
 ## Dataset
-- Dataset: `ecommerce_customers.csv`
+- Dataset: [ecommerce_customers.csv]()
 - Features: Avg. Session Length, Time on App, Time on Website, Length of Membership
 - Target: Yearly Amount Spent
+- Jupyter Notebook: [Linear Regression Model](https://www.kaggle.com/code/elsiemicah/linear-regression-model-with-insight)
 
 ## Steps
 1. Data Loading and Cleaning
